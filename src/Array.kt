@@ -9,4 +9,8 @@ fun main() {
     println(myArray[0])
     println(myArray[1])
     println(myArray[2])
+
+    //changing member of array
+    myArray[0] = "Trailblazer"
+    println(myArray[0])
 }
