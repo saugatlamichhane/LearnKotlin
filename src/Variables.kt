@@ -23,6 +23,4 @@ fun main() {
     val myFloatVar = 8.23F
     println("myFloatVar is $myFloatVar")
 
-    //string
-
 }

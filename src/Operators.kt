@@ -23,5 +23,5 @@ fun main() {
     //&&, ||, ! are logical operators
     println(!(x > y) && x == 4)
 
-    //TODO associativity and precedence: little bit different from other languages
+    //TODO associativity and precedence
 }
